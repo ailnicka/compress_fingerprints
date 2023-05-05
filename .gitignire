@@ -1,0 +1,15 @@
+Results/default*
+Results/single*
+src/*checkpoint*
+data/*checkpoint*
+src/__pycache__/
+src/data/
+lsf.o*
+inputs/inputs*
+Models/*
+src/*.pdf
+src/*.png
+src/*.csv
+*.png
+*.pdf
+.idea/*

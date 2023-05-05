@@ -1,0 +1,2 @@
+Results of the autoencoder trainig are stored in directory  <experiment_name> with a name originating from input file: input_<experiment_name>.ini
+In the directory there is directory Model where the models are stored (final one + eventaully intermediate ones if checkpoint was set) as well as copied input file with all parameters and history.csv file with all losses and metrics collected during trainaing and history.png with validation loss recorded dureing training. 
