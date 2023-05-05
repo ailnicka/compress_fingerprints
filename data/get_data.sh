@@ -1,1 +1,1 @@
-wget !! Link to data !!
+curl --remote-name !! Link to data !!
