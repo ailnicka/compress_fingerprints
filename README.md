@@ -1,6 +1,6 @@
 ### Autoencoder compression of molecular fingerprints ###
 
-This is code associated with the paper [Compression of Molecular Fingerprints with Autoencoder Networks](link_to_come)
+This is code associated with the paper [Compression of Molecular Fingerprints with Autoencoder Networks](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.202300059)
 
 To run code from this repository, first [create conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) using env_AE_full.yml or env_AE_gpu.yml if you have access to GPU. 
 
